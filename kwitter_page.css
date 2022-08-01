@@ -1,0 +1,13 @@
+#btn 
+{
+   background-color: antiquewhite;
+   width: 1000px;
+}
+body{
+    background-color:rgb(227, 210, 185);
+ }
+ #msg
+ {
+    background-color: antiquewhite;
+    font-family: monospace;
+ }
